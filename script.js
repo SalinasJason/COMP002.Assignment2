@@ -32,12 +32,14 @@ console.log(10 > 5); //Result: true
 
 // 7. Write code to output the result of the comparison:
 // "Apples" is NOT equal to "Oranges"
-
+console.log("Apples" != "Oranges"); // Result: true
 
 // 8. Write code to output the result of the comparison:
 // 10 * 10 is greater than 50 AND 5 * 5 is less than 50
+console.log(10 * 10 > 50, 5 * 5 < 50); //Result: true true
 
 // 9. Write code to output the result of the comparison:
 // 1 + 2 is greater than 5 OR 1 * 10 is greater than 5
+console.log(1 + 2 > 5 || 1 * 10 > 5); //Result: true
 
 // 10. Write code that demonstrates an automatic type conversion as shown in Chapter 01.
