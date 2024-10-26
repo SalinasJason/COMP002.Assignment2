@@ -8,7 +8,7 @@ console.log("Hello World!");
 // 2. Write code to concatenate three strings and output the result to the console:
 // "Hello", " ", "World!"
 let str1 = "Hello";
-let str2 = "World";
+let str2 = "World!";
 let result = str1 + " " + str2;
 console.log(result);
 
@@ -20,15 +20,19 @@ console.log("Hello\nWorld!");
 
 // 4. Write code to output the result of the arithmetic expression to the console:
 // 3 * 8 + 2;
+console.log(3 * 8 +2); // Result: 26
 
 // 5. Write code to output the result of the comparison:
 // 5 is less than 10.
+console.log(5 < 10); // Result: true 
 
 // 6. Write code to output the result of the comparison:
 // 10 is greater than 5.
+console.log(10 > 5); //Result: true
 
 // 7. Write code to output the result of the comparison:
 // "Apples" is NOT equal to "Oranges"
+
 
 // 8. Write code to output the result of the comparison:
 // 10 * 10 is greater than 50 AND 5 * 5 is less than 50
